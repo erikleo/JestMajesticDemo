@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "jest": "23.6.0"
+  },
+  "majestic": {
+    "runScript": "jest -i"
   }
 }
